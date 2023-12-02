@@ -1,7 +1,7 @@
 # Change Log
 All notable changes to this project will be documented in this file.
  
-## [Unreleased]
+## [Unreleased] Initial build
  
 ### Added
 - SQL Login
@@ -39,7 +39,7 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 - Fixed minor bug.
 
-## [3.2.1]
+## [3.2.1] Lasted Build
  
 ### Added
 - Added minor function.
