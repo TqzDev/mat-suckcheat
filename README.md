@@ -7,10 +7,6 @@ All notable changes to this project will be documented in this file.
 - SQL Login
 - Simple DLL Injector  
  
-### Changed
- 
-### Fixed
- 
 ## [3.0.1]
  
 ### Added
@@ -18,13 +14,9 @@ All notable changes to this project will be documented in this file.
 
 ### Changed  
 - SQL Login > KeyAuth
- 
-### Fixed
 
 ## [3.1.2]
  
-### Added
-
 ### Changed  
 - Updated DLL from cracked.
 
@@ -35,7 +27,6 @@ All notable changes to this project will be documented in this file.
  
 ### Added
 - Checked DLL in game after inject.
-### Changed  
 
 ### Fixed
 - Fixed minor bug.
@@ -43,9 +34,7 @@ All notable changes to this project will be documented in this file.
 ## [3.1.4]
  
 ### Added
-- Checked DLL in game after inject.
-
-### Changed  
+- Checked DLL in game after inject. 
 
 ### Fixed
 - Fixed minor bug.
