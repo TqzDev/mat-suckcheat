@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file.
 ## [3.0.1]
  
 ### Added
-- MaterialUI
+- Material Skin
 
 ### Changed  
 - SQL Login > KeyAuth
