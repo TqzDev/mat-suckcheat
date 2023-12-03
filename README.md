@@ -34,7 +34,7 @@ All notable changes to this project will be documented in this file.
 ## [3.1.4]
  
 ### Added
-- Checked DLL in game after inject. 
+- Added minor function.
 
 ### Fixed
 - Fixed minor bug.
