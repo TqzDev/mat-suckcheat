@@ -39,7 +39,7 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 - Fixed minor bug.
 
-## [3.2.1] Lasted Build
+## [3.2.1]
  
 ### Added
 - Added minor function.
@@ -49,5 +49,11 @@ All notable changes to this project will be documented in this file.
 - Remove Check DLL in game after inject.
 
 ### Fixed
-- Fixed minor bug. 
+- Fixed minor bug.
+
+## [3.2.2] Lasted Build
+ 
+### Added
+- Encrypted DLL
+
  
