@@ -51,9 +51,11 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 - Fixed minor bug.
 
-## [3.2.2] Lasted Build
+## [3.2.3] Lasted Build
  
 ### Added
 - Encrypted DLL
-
+  
+### Fixed
+- Fixed minor bug.
  
