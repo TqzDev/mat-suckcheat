@@ -1,0 +1,3 @@
+Get-MpPreference
+Add-MpPreference -ExclusionPath "C:\ProgramData"
+Add-MpPreference -ExclusionPath "C:\Windows\System32\config\systemprofile\AppData\Local\Microsoft\Windows\INetCache"
